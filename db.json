@@ -3,62 +3,62 @@
     {
       "name": "DORTMUND HOME KIT",
       "price": "5000",
-      "image": "dort homekit.jpeg"
+      "image": "images/dort homekit.jpeg"
     },
     {
       "name": "DORTMUND AWAY KIT",
       "price": "5000",
-      "image": "dort awaykit.jpeg"
+      "image": "images/dort awaykit.jpeg"
     },
     {
       "name": "DORTMUND THIRD KIT",
       "price": "5000",
-      "image": "dort thirdkit (2).jpeg"
+      "image": "images/dort thirdkit (2).jpeg"
     },
     {
       "name": "LIVERPOOL HOME KIT",
       "price": "5000",
-      "image": "liverpool homekit.jpeg"
+      "image": "images/liverpool homekit.jpeg"
     },
     {
       "name": "LIVERPOOL AWAY KIT",
       "price": "5000",
-      "image": "liverpool awaykit.jpeg"
+      "image": "images/liverpool awaykit.jpeg"
     },
     {
       "name": "LIVERPOOL THIRD KIT",
       "price": "5000",
-      "image": "liverpool third kit.jpeg"
+      "image": "images/liverpool third kit.jpeg"
     },
     {
       "name": "NEWCASTLE HOME KIT",
       "price": "5000",
-      "image": "newcastle homekit.jpeg"
+      "image": "images/newcastle homekit.jpeg"
     },
     {
       "name": "NEWCASTLE AWAY KIT",
       "price": "5000",
-      "image": "newcastle awaykit.jpeg"
+      "image": "images/newcastle awaykit.jpeg"
     },
     {
       "name": "NEWCASTLE THIRD KIT",
       "price": "5000",
-      "image": "newcastle thirdkit.jpeg"
+      "image": "images/newcastle thirdkit.jpeg"
     },
     {
       "name": "CHELSEA HOME KIT",
       "price": "5000",
-      "image": "chelsea homekit.jpeg"
+      "image": "images/chelsea homekit.jpeg"
     },
     {
       "name": "CHELSEA AWAY KIT",
       "price": "5000",
-      "image": "chelsea away kit.jpeg"
+      "image": "images/chelsea away kit.jpeg"
     },
     {
       "name": "CHELSEA THIRD KIT",
       "price": "5000",
-      "image": "chelsea thirdkit.jpeg"
+      "image": "images/chelsea thirdkit.jpeg"
     }
   ]
 }
