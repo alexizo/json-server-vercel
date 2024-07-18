@@ -1,9 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "kits": [
+    {
+      "name": "DORTMUND HOME KIT",
+      "price": "5000",
+      "image": "dort homekit.jpeg"
+    },
+    {
+      "name": "DORTMUND AWAY KIT",
+      "price": "5000",
+      "image": "dort awaykit.jpeg"
+    },
+    {
+      "name": "DORTMUND THIRD KIT",
+      "price": "5000",
+      "image": "dort thirdkit (2).jpeg"
+    },
+    {
+      "name": "LIVERPOOL HOME KIT",
+      "price": "5000",
+      "image": "liverpool homekit.jpeg"
+    },
+    {
+      "name": "LIVERPOOL AWAY KIT",
+      "price": "5000",
+      "image": "liverpool awaykit.jpeg"
+    },
+    {
+      "name": "LIVERPOOL THIRD KIT",
+      "price": "5000",
+      "image": "liverpool third kit.jpeg"
+    },
+    {
+      "name": "NEWCASTLE HOME KIT",
+      "price": "5000",
+      "image": "newcastle homekit.jpeg"
+    },
+    {
+      "name": "NEWCASTLE AWAY KIT",
+      "price": "5000",
+      "image": "newcastle awaykit.jpeg"
+    },
+    {
+      "name": "NEWCASTLE THIRD KIT",
+      "price": "5000",
+      "image": "newcastle thirdkit.jpeg"
+    },
+    {
+      "name": "CHELSEA HOME KIT",
+      "price": "5000",
+      "image": "chelsea homekit.jpeg"
+    },
+    {
+      "name": "CHELSEA AWAY KIT",
+      "price": "5000",
+      "image": "chelsea away kit.jpeg"
+    },
+    {
+      "name": "CHELSEA THIRD KIT",
+      "price": "5000",
+      "image": "chelsea thirdkit.jpeg"
+    }
+  ]
 }
